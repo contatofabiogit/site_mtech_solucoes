@@ -5,11 +5,6 @@
 .navbar-brand{
     padding-top: 5px;
 }
-#banner{
-    margin: 50px 0px 0px 5px;
-    padding: 0px;
-
-}
 
 .navbar{
     background-color: #333333;
@@ -19,32 +14,19 @@
     background-color: #E0E1E3;
 }
 
-.classificados_sobre{
-    margin-top: 40px;
-
-}
 
 body{
     background-color: white;
-    padding: 0px;
-    margin: 0px;
 }
 
 footer{
     background-color: #333333;
 }
 
-.rodaimg{
-    max-width: 100%;
-    margin: 0px auto;
-}
-
-
 /* Formatação de textos Pagina Index*/
 .tituloap{
     font-size: 22px;
     text-align: center;
-
 }
 
 .assuntoap{
@@ -57,11 +39,11 @@ footer{
 }
 
 #titulop{
-     font-size: 55px;
-     text-align: center;
-     font-style: inherit;
-     color: #1797D4;
- }
+    font-size: 55px;
+    text-align: center;
+    font-style: inherit;
+    color: #1797D4;
+}
 
 .titulop2{
     font-size: 30px;
@@ -85,10 +67,6 @@ footer{
 
 input[submit]{
     background-color: #3c3c3c;
-}
-
-.img-responsive{
-    padding-left: -20px;
 }
 
 .hroda{
